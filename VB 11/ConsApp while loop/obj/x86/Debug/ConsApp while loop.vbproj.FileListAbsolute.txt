@@ -1,0 +1,13 @@
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\bin\Debug\ConsApp while loop.exe
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\bin\Debug\ConsApp while loop.pdb
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\bin\Debug\ConsApp while loop.xml
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\ConsApp while loop.exe
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\ConsApp while loop.xml
+C:\Users\heather\Documents\Visual Studio 2010\Projects\ConsApp while loop\ConsApp while loop\obj\x86\Debug\ConsApp while loop.pdb
+E:\Video Tutorials\VB.net\Source\VB 11\ConsApp while loop\obj\x86\Debug\ConsApp while loop.exe
+E:\Video Tutorials\VB.net\Source\VB 11\ConsApp while loop\obj\x86\Debug\ConsApp while loop.xml
+E:\Video Tutorials\VB.net\Source\VB 11\ConsApp while loop\obj\x86\Debug\ConsApp while loop.pdb
